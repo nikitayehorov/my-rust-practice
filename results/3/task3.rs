@@ -1,5 +1,4 @@
 #[allow(dead_code)]
-#[allow(dead_code)]
 /// Функція staircase згідно з вимогами HackerRank
 pub fn staircase(n: i32) {
     for i in 1..=n {
